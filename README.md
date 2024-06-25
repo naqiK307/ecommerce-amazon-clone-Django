@@ -1,9 +1,6 @@
 "# django-ecommerce-project-amazon-clone" 
 
 
-## Theme Used
-<a href="https://github.com/stisla/stisla">View</a>
-
 ## Er Diagram of Project
 <img src="screenshots/er_diagram.png" style="width:100%" alt="Er Diagram"/>
 
